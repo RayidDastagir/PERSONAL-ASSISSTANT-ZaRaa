@@ -22,8 +22,8 @@ user_input_text = ""
 ai_response_text = ""
 
 # API keys for OpenWeatherMap and NewsAPI
-OPENWEATHER_API_KEY = '1aae12a50702b9281d984436d002a1c1'
-NEWSAPI_API_KEY = '09a334ba3fbe41acaff79515476dc4cc'
+OPENWEATHER_API_KEY = 'apikey'
+NEWSAPI_API_KEY = 'apikey'
 
 class MySoulDatabase:
 		def __init__(self):
